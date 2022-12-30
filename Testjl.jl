@@ -20,4 +20,8 @@ function julia_main()::Cint
     end
 end
 
+function run()
+    show_dir()
+end
+
 end # module
